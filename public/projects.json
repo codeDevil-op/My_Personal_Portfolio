@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "E-commerece",
+      "category": "Web development",
+      "image": "images/project-1.png",
+      "link": "https://react-eshop-app.netlify.app/"
+    },
+    {
+      "id": 2,
+      "title": "Education",
+      "category": "Web design",
+      "image": "images/project-2.jpg",
+      "link": "https://unieducation.netlify.app/"
+    },
+    {
+      "id": 3,
+      "title": "Mind Wellness",
+      "category": "Web design",
+      "image": "images/project-3.jpg",
+      "link": "https://mindwelness.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "TaskManager",
+      "category": "Applications",
+      "image": "images/project-4.png",
+      "link": "https://taskmanagerapp2.netlify.app/"
+    },
+    {
+      "id": 5,
+      "title": "Weather App",
+      "category": "Applications",
+      "image": "images/project-5.jpg",
+      "link": "https://reactweatherapp69.netlify.app/"
+    },
+    {
+      "id": 6,
+      "title": "Contact App",
+      "category": "Applications",
+      "image": "images/project-6.png",
+      "link": "https://react-contact-app2.netlify.app/"
+    },
+    {
+      "id": 7,
+      "title": "Quize App",
+      "category": "Applications",
+      "image": "images/project-7.png",
+      "link": "https://react1-quize-app.netlify.app/"
+    }
+  ]
+  
