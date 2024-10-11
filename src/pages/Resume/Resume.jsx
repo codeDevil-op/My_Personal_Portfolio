@@ -85,9 +85,14 @@ const Resume = () => {
       </ul>
       </div>
       <div className="">
-        <button className="dwn-btn">
+        {/* <button className="dwn-btn">
           <a href={myResume} download='abdur_rahman'>Download CV</a>
+
+        </button> */}
+        <button className='form-btn' type='submit'>
+        <a href={myResume} download='abdur_rahman'>Download CV</a>
         </button>
+
       </div>
     </section>
   );

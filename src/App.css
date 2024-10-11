@@ -806,7 +806,7 @@
   /* download btn  */
 
   /* From Uiverse.io by Navarog21 */ 
-.dwn-btn {
+/* .dwn-btn {
   width: 10em;
   position: relative;
   height: 3.5em;
@@ -856,7 +856,7 @@
 
 .dwn-btn:hover {
   box-shadow: inset 0px 0px 25px var(--orange-yellow-crayola);
-}
+} */
   
   
   
@@ -1188,6 +1188,9 @@
     box-shadow: var(--shadow-3);
     z-index: 1;
     transition: var(--transition-1);
+  }
+  .form-btn a{
+    color: var(--orange-yellow-crayola);
   }
   
   .form-btn::before {
