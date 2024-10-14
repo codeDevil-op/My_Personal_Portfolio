@@ -1,5 +1,5 @@
 import React from "react";
-import developer from "/images/developer.jpg";
+import developer from "/images/frontend1.jpg";
 import { GiClawSlashes } from "react-icons/gi";
 
 
