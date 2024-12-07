@@ -731,6 +731,7 @@
     font-weight: var(--fw-300);
     line-height: 1.6;
   } 
+  /* timeline  */
   .timeline-item:not(:last-child)::before {
     content: "";
     position: absolute;

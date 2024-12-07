@@ -29,27 +29,34 @@
     },
     {
       "id": 5,
+      "title": "Live Streaming App",
+      "category": "Applications",
+      "image": "images/project-9.jpg",
+      "link": "https://live-streamingapp.vercel.app/"
+    },
+    {
+      "id": 6,
       "title": "TaskManager",
       "category": "Applications",
       "image": "images/project-4.webp",
       "link": "https://react-todo-app-pi-opal.vercel.app/"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Weather App",
       "category": "Applications",
       "image": "images/project-5.webp",
       "link": "https://reactweatherapp69.netlify.app/"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Contact App",
       "category": "Applications",
       "image": "images/project-6.webp",
       "link": "https://react-contact-app2.netlify.app/"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Quize App",
       "category": "Applications",
       "image": "images/project-7.webp",
